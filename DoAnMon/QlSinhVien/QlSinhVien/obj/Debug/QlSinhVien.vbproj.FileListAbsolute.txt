@@ -1,0 +1,14 @@
+D:\DoAnMon\QlSinhVien\QlSinhVien\obj\Debug\QlSinhVien.vbproj.AssemblyReference.cache
+D:\DoAnMon\QlSinhVien\QlSinhVien\obj\Debug\QlSinhVien.SinhVienFrm.resources
+D:\DoAnMon\QlSinhVien\QlSinhVien\obj\Debug\QlSinhVien.Resources.resources
+D:\DoAnMon\QlSinhVien\QlSinhVien\obj\Debug\QlSinhVien.vbproj.GenerateResource.cache
+D:\DoAnMon\QlSinhVien\QlSinhVien\obj\Debug\QlSinhVien.vbproj.CoreCompileInputs.cache
+D:\DoAnMon\QlSinhVien\QlSinhVien\bin\Debug\QlSinhVien.exe.config
+D:\DoAnMon\QlSinhVien\QlSinhVien\bin\Debug\QlSinhVien.exe
+D:\DoAnMon\QlSinhVien\QlSinhVien\bin\Debug\QlSinhVien.pdb
+D:\DoAnMon\QlSinhVien\QlSinhVien\bin\Debug\QlSinhVien.xml
+D:\DoAnMon\QlSinhVien\QlSinhVien\obj\Debug\QlSinhVien.exe
+D:\DoAnMon\QlSinhVien\QlSinhVien\obj\Debug\QlSinhVien.xml
+D:\DoAnMon\QlSinhVien\QlSinhVien\obj\Debug\QlSinhVien.pdb
+D:\DoAnMon\QlSinhVien\QlSinhVien\obj\Debug\QlSinhVien.exe.config
+D:\DoAnMon\QlSinhVien\QlSinhVien\obj\Debug\QlSinhVien.LoginFrm.resources
